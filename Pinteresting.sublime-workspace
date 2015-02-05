@@ -26,6 +26,22 @@
 				"buffer_size": 144,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "app/assets/stylesheets/bootstrap_and_customization.css.scss",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -57,8 +73,10 @@
 	[
 		"/home/johnathan/pinteresting",
 		"/home/johnathan/pinteresting/app",
+		"/home/johnathan/pinteresting/app/assets",
+		"/home/johnathan/pinteresting/app/assets/stylesheets",
 		"/home/johnathan/pinteresting/app/views",
-		"/home/johnathan/pinteresting/app/views/pages"
+		"/home/johnathan/pinteresting/app/views/layouts"
 	],
 	"file_history":
 	[
@@ -112,7 +130,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -141,7 +159,65 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/bootstrap_and_customization.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/layouts/_header.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
