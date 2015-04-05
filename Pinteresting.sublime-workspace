@@ -20,35 +20,29 @@
 	"buffers":
 	[
 		{
-			"file": "app/views/pages/home.html.erb",
+			"file": "app/views/devise/passwords/new.html.erb",
 			"settings":
 			{
-				"buffer_size": 205,
+				"buffer_size": 660,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Gemfile",
+			"file": "app/views/devise/registrations/edit.html.erb",
 			"settings":
 			{
-				"buffer_size": 1483,
+				"buffer_size": 1759,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/assets/stylesheets/bootstrap_and_customization.css.scss",
+			"contents": "Package Control Messages\n========================\n\nTheme - Spacegray:\n-----------------\n\n  Thanks for installing Spacegray!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  Spacegray comes in different flavors, based on Base16 color schemes. You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Spacegray\n  ---------\n  \n  Default flavor based on Base16 Ocean Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.dark.tmTheme\"\n      }\n  \n  \n  Spacegray Light\n  ---------------\n  \n  Light variation based on Base16 Ocean Light color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Light.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.light.tmTheme\"\n      }\n  \n  \n  Spacegray Eighties\n  ------------------\n  \n  A variation based on Base16 Eighties Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Eighties.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-eighties.dark.tmTheme\"\n      }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  ",
 			"settings":
 			{
-				"buffer_size": 612,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/layouts/_header.html.erb",
-			"settings":
-			{
-				"buffer_size": 974,
-				"line_ending": "Unix"
+				"buffer_size": 1530,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
 			}
 		}
 	],
@@ -86,25 +80,37 @@
 	[
 		"/home/johnathan/pinteresting",
 		"/home/johnathan/pinteresting/app",
-		"/home/johnathan/pinteresting/app/assets",
-		"/home/johnathan/pinteresting/app/assets/stylesheets",
+		"/home/johnathan/pinteresting/app/models",
 		"/home/johnathan/pinteresting/app/views",
-		"/home/johnathan/pinteresting/app/views/layouts"
+		"/home/johnathan/pinteresting/app/views/devise",
+		"/home/johnathan/pinteresting/app/views/devise/passwords",
+		"/home/johnathan/pinteresting/app/views/devise/registrations",
+		"/home/johnathan/pinteresting/app/views/devise/sessions"
 	],
 	"file_history":
 	[
+		"/home/johnathan/pinteresting/app/views/devise/registrations/new.html.erb",
+		"/home/johnathan/pinteresting/app/views/layouts/_header.html.erb",
+		"/home/johnathan/pinteresting/app/views/devise/sessions/new.html.erb",
+		"/home/johnathan/pinteresting/app/views/layouts/application.html.erb",
+		"/home/johnathan/pinteresting/app/views/pages/home.html.erb",
+		"/home/johnathan/pinteresting/README.md",
 		"/home/johnathan/pinteresting/app/assets/stylesheets/bootstrap_and_customization.css.scss",
+		"/home/johnathan/pinteresting/app/views/devise/confirmations/new.html.erb",
+		"/home/johnathan/pinteresting/app/views/devise/passwords/edit.html.erb",
+		"/home/johnathan/pinteresting/app/views/devise/unlocks/new.html.erb",
+		"/home/johnathan/pinteresting/app/assets/stylesheets/application.css",
+		"/home/johnathan/pinteresting/config/routes.rb",
+		"/home/johnathan/pinteresting/config/application.rb",
+		"/home/johnathan/pinteresting/app/models/user.rb",
+		"/home/johnathan/pinteresting/config/environments/production.rb",
+		"/home/johnathan/pinteresting/config/environments/development.rb",
+		"/home/johnathan/pinteresting/Gemfile",
 		"/home/johnathan/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/johnathan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/johnathan/pinteresting/Gemfile",
 		"/home/johnathan/pinteresting/app/assets/javascripts/application.js",
-		"/home/johnathan/pinteresting/app/views/layouts/_header.html.erb",
-		"/home/johnathan/pinteresting/README.md",
-		"/home/johnathan/pinteresting/app/views/pages/home.html.erb",
-		"/home/johnathan/pinteresting/app/views/layouts/application.html.erb",
 		"/home/johnathan/Scraper.rb",
 		"/home/johnathan/pinteresting/app/views/pages/about.html.erb",
-		"/home/johnathan/pinteresting/config/routes.rb",
 		"/home/johnathan/pinteresting/app/controllers/pages_controller.rb",
 		"/home/johnathan/Build a website/css/custom.css",
 		"/home/johnathan/Build a website/index.html",
@@ -148,81 +154,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "app/views/pages/home.html.erb",
+					"file": "app/views/devise/passwords/new.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 205,
+						"buffer_size": 660,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								116,
-								116
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Gemfile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1483,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								43,
-								43
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": -0.0,
-						"translation.y": 45.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/assets/stylesheets/bootstrap_and_customization.css.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 612,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								470,
-								470
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -232,20 +181,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "app/views/layouts/_header.html.erb",
+					"buffer": 1,
+					"file": "app/views/devise/registrations/edit.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 974,
+						"buffer_size": 1759,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								562,
-								562
+								1088,
+								1088
 							]
 						],
 						"settings":
@@ -258,7 +207,36 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1530,
+								1530
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
